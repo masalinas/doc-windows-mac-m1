@@ -1,7 +1,7 @@
-# Description
+# Description
 Install Windows 11 PRO from sratch in Mac M1 computer
 
-## Steps
+## Steps
 
 - **STEP01**: Install UTM Hypervisor
 
@@ -16,5 +16,7 @@ Select Windows 11 and this tool download the sources and compile the ISO install
 - **STEP03**: Install Windows 11:
 
 After create the Windows 11 ISO Installer:
+
+ - Select the 
 
 
